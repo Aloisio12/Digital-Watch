@@ -1,6 +1,4 @@
 # Digital-Watch
 A digital watch with HTML, CSS, JS
 
-
-https://user-images.githubusercontent.com/97071591/213253135-6ae2e5ad-60aa-4471-a117-eedae9a30c1d.mp4
-
+https://user-images.githubusercontent.com/97071591/213257817-b981d868-31d2-4d0f-82c8-dbe0d702896f.mp4
